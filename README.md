@@ -13,8 +13,5 @@ This demo shows how to use go-task as a library to load and traverse Taskfile gr
 ## Usage
 
 ```bash
-# Enable remote Taskfiles experiment
-export TASK_X_REMOTE_TASKFILES=1
-
 # Run the demo
 go run main.go
