@@ -4,7 +4,7 @@ go 1.24.4
 
 require (
 	github.com/dominikbraun/graph v0.23.0
-	github.com/go-task/task/v3 v3.45.3
+	github.com/go-task/task/v3 v3.45.4
 )
 
 require (
@@ -50,6 +50,6 @@ require (
 	golang.org/x/term v0.35.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	mvdan.cc/sh/moreinterp v0.0.0-20250807215248-5a1a658912aa // indirect
+	mvdan.cc/sh/moreinterp v0.0.0-20250915182820-b717ad599e17 // indirect
 	mvdan.cc/sh/v3 v3.12.0 // indirect
 )
