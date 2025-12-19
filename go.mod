@@ -4,7 +4,7 @@ go 1.24.4
 
 require (
 	github.com/dominikbraun/graph v0.23.0
-	github.com/go-task/task/v3 v3.46.2
+	github.com/go-task/task/v3 v3.46.3
 )
 
 require (
