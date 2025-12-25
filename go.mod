@@ -4,7 +4,7 @@ go 1.24.4
 
 require (
 	github.com/dominikbraun/graph v0.23.0
-	github.com/go-task/task/v3 v3.46.3
+	github.com/go-task/task/v3 v3.46.4
 )
 
 require (
@@ -13,7 +13,7 @@ require (
 	cloud.google.com/go/iam v0.13.0 // indirect
 	cloud.google.com/go/storage v1.29.0 // indirect
 	github.com/Masterminds/semver/v3 v3.4.0 // indirect
-	github.com/alecthomas/chroma/v2 v2.20.0 // indirect
+	github.com/alecthomas/chroma/v2 v2.21.1 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.36.3 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.10 // indirect
 	github.com/aws/aws-sdk-go-v2/config v1.29.15 // indirect
