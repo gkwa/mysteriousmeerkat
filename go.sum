@@ -117,8 +117,8 @@ github.com/go-quicktest/qt v1.101.0 h1:O1K29Txy5P2OK0dGo59b7b0LR6wKfIhttaAhHUyn7
 github.com/go-quicktest/qt v1.101.0/go.mod h1:14Bz/f7NwaXPtdYEgzsx46kqSxVwTbzVZsDC26tQJow=
 github.com/go-task/slim-sprig/v3 v3.0.0 h1:sUs3vkvUymDpBKi3qH1YSqBQk9+9D/8M2mN1vB6EwHI=
 github.com/go-task/slim-sprig/v3 v3.0.0/go.mod h1:W848ghGpv3Qj3dhTPRyJypKRiqCdHZiAzKg9hl15HA8=
-github.com/go-task/task/v3 v3.47.0 h1:Ki7Vh7Lh29NIA7M9jTEpIj6RwUxGGa8Iq2lzjKeqBcc=
-github.com/go-task/task/v3 v3.47.0/go.mod h1:ChDoJV0k919miEJJu1yJ846tg+4Ivv9ZE/1YwQXvIRY=
+github.com/go-task/task/v3 v3.48.0 h1:HEim5OOpgmob5ONfq7ji3QHUyJdcwqL5ctOT5CPWCzA=
+github.com/go-task/task/v3 v3.48.0/go.mod h1:ChDoJV0k919miEJJu1yJ846tg+4Ivv9ZE/1YwQXvIRY=
 github.com/go-task/template v0.2.0 h1:xW7ek0o65FUSTbKcSNeg2Vyf/I7wYXFgLUznptvviBE=
 github.com/go-task/template v0.2.0/go.mod h1:dbdoUb6qKnHQi1y6o+IdIrs0J4o/SEhSTA6bbzZmdtc=
 github.com/golang/protobuf v1.5.4 h1:i7eJL8qZTpSEXOPTxNKhASYpMn+8e5Q6AdndVa1dWek=
