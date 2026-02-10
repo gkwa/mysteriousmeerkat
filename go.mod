@@ -2,7 +2,7 @@ module github.com/gkwa/mysteriousmeerkat
 
 go 1.24.6
 
-toolchain go1.25.7
+toolchain go1.26.0
 
 require (
 	github.com/dominikbraun/graph v0.23.0
