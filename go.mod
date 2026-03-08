@@ -6,7 +6,7 @@ toolchain go1.26.1
 
 require (
 	github.com/dominikbraun/graph v0.23.0
-	github.com/go-task/task/v3 v3.49.0
+	github.com/go-task/task/v3 v3.49.1
 )
 
 require (
